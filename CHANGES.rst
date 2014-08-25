@@ -4,7 +4,8 @@ Changelog
 1.0b2 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Ajustes na distribuição do pacote
+  [ericof]
 
 
 1.0b1 (2014-07-02)
