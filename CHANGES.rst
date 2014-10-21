@@ -4,7 +4,8 @@ Changelog
 1.0b3 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Fix tests
+  [hvelarde]
 
 
 1.0b2 (2014-08-25)
