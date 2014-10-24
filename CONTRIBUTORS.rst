@@ -1,6 +1,7 @@
 Contributors
 ============
 
-* Karyn Nassif
-* Jean Ferri
+* Érico Andrei
 * Héctor Velarde
+* Jean Ferri
+* Karyn Nassif
